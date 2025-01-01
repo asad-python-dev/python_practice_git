@@ -1,0 +1,1 @@
+print("Next tech skills")
